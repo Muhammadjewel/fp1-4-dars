@@ -7,3 +7,9 @@ body {
 h1 {
   background-color: rgba(255, 0, 0, 0.5);
 }
+
+/* hex 0123456789abcdef - #rrggbb */
+.agenda {
+  background-color: #10aded;
+  color: #ffee88; /* #fe8 */
+}
