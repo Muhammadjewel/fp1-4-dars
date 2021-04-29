@@ -13,3 +13,19 @@ h1 {
   background-color: #10aded;
   color: #ffee88; /* #fe8 */
 }
+
+.telegram-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  letter-spacing: 5px;
+  line-height: 30px;
+  color: gold;
+  background-color: #000;
+}
+
+.the-bozorlik {
+  list-style: decimal-leading-zero;
+}
